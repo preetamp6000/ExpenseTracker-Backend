@@ -57,7 +57,7 @@ Built using **Node.js, Express.js, and MongoDB**, it powers authentication, anal
 - 📥 **Data Export** – Allow users to export expense reports in CSV or PDF formats  
 - 🔔 **Reminders & Notifications** – Smart alerts for bills, payments, and budget goals  
 - 💼 **Multi-User Dashboard** – Enable shared finances for families or business accounts  
-- 🏦 **Bank API Integration (Future Scope)** – Auto-sync transactions directly from bank accounts  
+  
 
 
 
